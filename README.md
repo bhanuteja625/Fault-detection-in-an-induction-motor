@@ -12,3 +12,10 @@ the histogram for the vibrations at frontal and rear bearings is shown in fig be
 ![19](https://user-images.githubusercontent.com/61615845/173837265-d688d54a-4de3-4cc1-9c76-c4206411a9ee.png)
 ![20](https://user-images.githubusercontent.com/61615845/173837310-e76a361e-4505-4a32-917e-5bbe819bf73e.png)
 ![21](https://user-images.githubusercontent.com/61615845/173837330-f0793e7e-4cdf-48e0-b084-fdc87ba0a97c.png)
+
+
+the overall model accuracy for classification of the input data into each classes is shown in the fig below
+
+![34](https://user-images.githubusercontent.com/61615845/173838137-37d01cf1-54c1-40b8-a601-4021fb47b9bf.png)
+
+
